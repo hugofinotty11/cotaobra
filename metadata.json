@@ -1,0 +1,6 @@
+{
+  "name": "CotaObra",
+  "description": "PWA móvel para orçamento e comparação automática de preços de materiais de construção em múltiplos fornecedores, geração de relatórios de melhor preço e exportação de listas de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
